@@ -101,20 +101,10 @@ The creation of this dashboard was a transformative experience, with several key
 4. **Visual Appeal:** Designing the dashboard with a gradient background added a professional, modern touch.  
 5. **Insights-Driven Thinking:** Identifying trends, patterns, and actionable insights helped me hone analytical skills.  
 
-This project was more than just data analysis; it was an opportunity to make data accessible, insightful, and actionable for stakeholders. The dashboard now stands as a testament to my skills in data visualization and storytelling, ready to drive real-world impact.
-
-## Repository Structure
-├── data/  
-│   ├── Orders.csv         # Sales data  
-│   ├── OrderDetails.csv   # Product details  
-├── images/  
-│   ├── dashboard.png      # Gradient-themed dashboard  
-│   ├── gradient-bg.png    # Background image used in the dashboard  
-├── README.md              # Documentation  
-├── dashboard.twbx         # Tableau Workbook  
+This project was more than just data analysis; it was an opportunity to make data accessible, insightful, and actionable for stakeholders. The dashboard now stands as a testament to my skills in data visualization and storytelling, ready to drive real-world impact.  
 
 ## Tools and Technologies
-- **Data Visualization**: Tableau  
+- **Data Visualization**: Power BI  
 - **Languages Used**: SQL, Python (for data preprocessing)  
 - **Design**: Gradient background for aesthetic appeal  
 - **Customization**: Filters, slicers, and dynamic parameters for user-driven analysis  
